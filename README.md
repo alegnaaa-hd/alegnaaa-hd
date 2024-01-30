@@ -5,3 +5,5 @@
   - "Pig" coming soon
 
 also bogosort = best sort anyday everyday
+
+![Angela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alegnaaa-hd&hide=prs,issues&theme=tokyonight&show_icons=true)
