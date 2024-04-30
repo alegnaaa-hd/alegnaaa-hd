@@ -1,8 +1,8 @@
 - ⚙️loading... 1% complete
 - maybe ill try to dig up my old python files maybe i wont
 
-- update 3/8:
-  - "Pig" is out
+- update 4/29
+  - "fcps" completed
 
 also bogosort = best sort anyday everyday
 
